@@ -12,7 +12,7 @@ const portalLinks = [
         id: 2,
         title: 'My Spotify',
         description: 'Sebuah Dokumentasi Hobi',
-        url: 'https://www.spotify.com',
+        url: 'https://open.spotify.com/',
         icon: 'headphones',
         color: '#7c3aed'
     },
@@ -36,7 +36,7 @@ const portalLinks = [
         id: 5,
         title: 'My Github',
         description: 'Project dan latihan programmer',
-        url: 'https://reports.cisangkan.com',
+        url: 'https://github.com/mraljabari',
         icon: 'git',
         color: '#ea580c'
     },
@@ -44,7 +44,7 @@ const portalLinks = [
         id: 6,
         title: 'My Instagram',
         description: 'Bantuan & Kontak',
-        url: 'https://support.cisangkan.com',
+        url: 'https://www.instagram.com/m.r.aljabari/',
         icon: 'ig',
         color: '#0891b2'
     }
